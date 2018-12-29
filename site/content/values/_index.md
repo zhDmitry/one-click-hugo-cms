@@ -2,13 +2,6 @@
 title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Shade-grown coffee
-    imageUrl: /img/blog-index.jpg
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
     text: >
@@ -23,6 +16,13 @@ values:
       understanding of ecosystem services, the study of relationships between
       organisms and their environment. What grows where and how it is grown are
       a matter of choice and careful consideration for nature and communities.
+  - heading: Shade-grown coffee
+    imageUrl: /img/blog-index.jpg
+    text: >
+      Coffee is a small tree or shrub that grows in the forest understory in its
+      wild form, and traditionally was grown commercially under other trees that
+      provided shade. The forest-like structure of shade coffee farms provides
+      habitat for a great number of migratory and resident species.
   - heading: Reinvest profits
     imageUrl: /img/about-reinvest-profits.jpg
     text: >
@@ -37,5 +37,8 @@ values:
       That’s why we reinvest 20% of our profits into farms, local businesses and
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
+  - heading: фыафы
+    imageUrl: /img/about-jumbotron.jpg
+    text: ываы
 ---
 
